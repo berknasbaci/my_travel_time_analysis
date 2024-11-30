@@ -21,7 +21,7 @@ In this project, I will analyze how departure time and weather conditions impact
 -**Data Collection**:
 
 
-	- Data will be collected throughout December, maintaining :
+	1. Data will be collected throughout December, maintaining :
  
 		- A consistent route.
   
@@ -30,16 +30,16 @@ In this project, I will analyze how departure time and weather conditions impact
   		- The same driver (myself).
 
     
-	- Travel time will be recorded from Google Maps under “My Timeline.”
+	2. Travel time will be recorded from Google Maps under “My Timeline.”
  
  
-	- Weather data will be obtained using the OpenWeatherMap API.
+	3. Weather data will be obtained using the OpenWeatherMap API.
  
  
-	- Stress levels will be monitored using the Samsung Health Monitor app.
+	4. Stress levels will be monitored using the Samsung Health Monitor app.
  
  
-	- To ensure consistency and minimize bias:
+	5. To ensure consistency and minimize bias:
  
 		- Information will be recorded immediately after each trip.
   
