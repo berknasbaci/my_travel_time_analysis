@@ -18,8 +18,8 @@ In this project, I will analyze how departure time and weather conditions impact
 
 
 ### Plan
--**Data Collection**:
 
+-**Data Collection**:
 
 	1. Data will be collected throughout December, maintaining :
  
