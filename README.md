@@ -5,10 +5,15 @@ In this project, I will analyze how departure time and weather conditions impact
 
 ### Description of Dataset
 -**Total Duration of each trip**: I will record the travel time provided by Google Maps under “My Timeline”.
+
 -**Stress levels**: My mood will be checked before and after the trip from the Health Monitor app of Samsung to assess how stress levels correlate with the travel experience.
+
 -**Route**: Recording the departure point and the arrival point.
+
 -**Weather**: Weather information will be gathered for each journey by OpenWeatherMap API.
+
 -**Departure time**: The exact time of my departure to analyze its effect on the duration of the trip.
+
 -**Day of the week including the date**: Information to distinguish whether the journey happened on a weekday or weekend.
 
 
