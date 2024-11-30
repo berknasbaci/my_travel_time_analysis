@@ -19,14 +19,14 @@ In this project, I will analyze how departure time and weather conditions impact
 ### **Plan** 
 #### **Data Collection** 
 - Data will be collected throughout December, maintaining:
-  	- A consistent **route**. 
-	- The same **vehicle**. 
-	- The same **driver** (myself). 
+  	- A consistent route. 
+	- The same vehicle. 
+	- The same driver (myself). 
 -  **Sources:**
   	- Travel time will be recorded from Google Maps under “My Timeline.” 
 	- Weather data will be obtained using the OpenWeatherMap API. 
 	- Stress levels will be monitored using the Samsung Health Monitor app. 
--  **To ensure consistency and minimize bias:**
+-  To ensure consistency and minimize bias:
   	- Information will be recorded immediately after each trip. 
 	- Data will be systematically organized and accessible. 
 	- Confounding variables and outliers will be carefully considered to ensure the accuracy and reliability of the analysis.
@@ -38,7 +38,7 @@ In this project, I will analyze how departure time and weather conditions impact
 
 #### **Data Preparation and Analysis** 
 - At the end of the data collection period: 
-	- Data will be reviewed for **completeness and consistency**. 
+	- Data will be reviewed for completeness and consistency. 
 - **Exploratory Data Analysis (EDA):** 
 	- Trends will be identified using statistical and visualization techniques. 
 - **Regression Analysis:** 
@@ -47,36 +47,3 @@ In this project, I will analyze how departure time and weather conditions impact
 	- Stress levels.
 
 
-
-### **Plan**
-#### **Data Collection**
-- Data will be collected throughout December, maintaining:
-	- A consistent **route**.
- 	- The same **vehicle**.
-	- The same **driver** (myself).
- - **Sources:**
-   	-Travel time will be recorded from Google Maps under My Timeline.
-   	-Weather data will be obtained using the OpenWeatherMap API.
-   	-Stress levels will be monitored using the Samsung Health Monitor app.
-- To ensure consistency and minimize bias:
-  	- Information will be recorded immediately after each trip.
-	- Data will be systematically organized and accessible.
-- Confounding variables and outliers will be carefully considered to ensure the accuracy and reliability of the analysis.
-
--**Data Preparation and Analysis**:
--At the end of the data collection period:
-	-Data will be reviewed for completeness and consistency.
- -
-
-
-Confounding variables and outliers will be carefully considered to ensure the accuracy and reliability of the analysis. 
--**Data Preparation and Analysis**:
-At the end of the data collection period:
-
-	- 
-Exploratory Data Analysis (EDA): 
-
-	-Trends will be identified using statistical and visualization techniques.  
- 
-Regression Analysis: 
-	-Statistical methods will be applied to investigate the impact of various factors (departure time, weather, etc.) on travel duration and stress levels.
