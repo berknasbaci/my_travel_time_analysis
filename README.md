@@ -42,8 +42,6 @@ In this project, I will analyze how departure time and weather conditions impact
 - **Exploratory Data Analysis (EDA):** 
 	- Trends will be identified using statistical and visualization techniques. 
 - **Regression Analysis:** 
-	- Statistical methods will be applied to investigate the impact of various factors (departure time, weather, etc.) on: 
-	- Travel duration. 
-	- Stress levels.
+	- Statistical methods will be applied to investigate the impact of various factors such as departure time, weather on travel duration, stress levels.
 
 
