@@ -3,7 +3,7 @@
 In this project, I will analyze how departure time and weather conditions impact the travel time between my home and campus and how these factors together influence my stress levels. My goal is to maintain a positive mood by achieving better time management as a result of this analysis. Weather and departure time will have a considerable impact on travel time. In particular, rush hour and bad weather might increase the time spent, whereas they can also lead to higher stress levels during the trip.
 
 
-### **Description of Dataset**
+## **Description of Dataset**
 -**Total duration of each trip**: I will record the travel time provided by Google Maps under “My Timeline”.
 
 -**Stress levels**: My mood will be checked before and after the trip from the Health Monitor app of Samsung to assess how stress levels correlate with the travel experience.
@@ -16,7 +16,7 @@ In this project, I will analyze how departure time and weather conditions impact
 
 -**Day of the week including the date**: Information to distinguish whether the journey happened on a weekday or weekend.
 
-### **Plan** 
+## **Plan** 
 #### **Data Collection** 
 - Data will be collected throughout December, maintaining:
   	- A consistent route. 
