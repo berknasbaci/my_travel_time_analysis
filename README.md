@@ -24,7 +24,15 @@ In this project, I will analyze how departure time and weather conditions impact
 
 
 
+
+
+
+
 	- Data will be collected throughout December, maintaining :
+
+
+
+
 
 
 
@@ -60,18 +68,34 @@ In this project, I will analyze how departure time and weather conditions impact
  
 
 
+
+
+
+
  
 	- Weather data will be obtained using the OpenWeatherMap API.
  
 
 
+
+
+
+
  
 	- Stress levels will be monitored using the Samsung Health Monitor app.
+
+
+
+
  
 
 
  
 	- To ensure consistency and minimize bias:
+
+
+
+
 
 
  
@@ -98,13 +122,25 @@ In this project, I will analyze how departure time and weather conditions impact
 
 
 
+
+
+
+
  
 -**Data Preparation and Analysis**:
 
 
 
 
+
+
+
+
 	- At the end of the data collection period:
+
+
+
+
 
 
 
@@ -122,6 +158,10 @@ In this project, I will analyze how departure time and weather conditions impact
 
 
 
+
+
+
+
  
 		- Trends will be identified using statistical and visualization techniques.
 
@@ -133,6 +173,10 @@ In this project, I will analyze how departure time and weather conditions impact
 
   
 	- Regression Analysis:
+
+
+
+
 
 
 
