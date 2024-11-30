@@ -22,6 +22,7 @@ In this project, I will analyze how departure time and weather conditions impact
 -**Data Collection**:
 
 
+
   	-Data will be collected throughout December, maintaining:
    		- A consistent route.
 		- The same vehicle.
