@@ -49,7 +49,8 @@ In this project, I will analyze how departure time and weather conditions impact
 The main objective of this project is to analyze the relationship between departure time, weather conditions, travel duration and stress levels for trips between home and campus. This study aims to determine how the factors which set to be both dependent and independent, influence stress levels before and after trip, as it is expected to improve time managament and reduce stress. Since patterns will be identified by it will be possible to make decisions to minimize both travel time and stress levels.
 
 ## **Hypothesis**
-Null Hypothesis(H0): There is no significant relationship between travel duration and stress level differences. Specifically, changes in travel duration (whether an increase or decrease) do not significantly affect stress level differences before and after the trip.
+Null Hypothesis(H0): There is no significant relationship between travel duration and stress level differences. Increase in travel duration do not significantly affect stress level differences before and after the trip.
+Alternative Hypothesis(H1): There is a significant relationship between travel duration and stress level differences. As travel duration increases, stress level differences before and after the trip also increase.
 
  ## **Methods**
  #### **Data Collection** 
