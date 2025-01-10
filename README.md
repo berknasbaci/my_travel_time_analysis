@@ -82,8 +82,8 @@ Throughout December 2024, data was collected using methods below:
  
  - **Feature Engineering**: 
  	- New variable is created named "StressLevelDifference" to compute the difference between stress levels before and after the trip.
-  	- DepartureTimeHour is extracted for time analysis.
-   	- Applied one-hot encoding method to WeatherCondition and TimeCategory. WeatherCondition is separated into 4 groups: Cloudy, Rainy, Sunny, Partly Cloudy. TimeCategory is also seperated into 4 groups: Morning Commute, Work Hours, Evening Commute, Off Hours. 
+  	- DepartureTimeHour is extracted for time analysis. Applied one-hot encoding method as TimeCategory is seperated into 4 groups: Morning Commute, Work Hours, Evening Commute, Off Hours. 
+   	- Applied one-hot encoding method to WeatherCondition and TimeCategory. WeatherCondition is separated into 4 groups: Cloudy, Rainy, Sunny, Partly Cloudy. 
 
 #### **Visualization Techniques** 
 - **Univariate Analysis:** 
