@@ -145,7 +145,7 @@ Throughout December 2024, data was collected using methods below:
 	- Sunny and partly cloudy conditions had minimal impact on travel duration or stress.
 - Stress Levels:
    	- Longer travel durations and rainy conditions consistently increased stress levels.
-     	- Stress level differences were highest during the evening commute on rainy days.
+  	- Stress level differences were highest during the evening commute on rainy days.
 
 ## **Limitations**
 - Weather Data:
