@@ -137,29 +137,29 @@ Throughout December 2024, data was collected using methods below:
 	- **Linear Regression** model is the best model to use as R^2 is 0.62 which is satisfactory for a project data that as we have limited data.
    
 ## **Findings**
-	- Departure Time:
- 		- Morning and evening commutes significantly increased travel duration.
-   		- Trips during off-hours were quicker and less stressful.
-     	- Weather Conditions:
-      		- Rainy conditions were associated with longer travel times and higher stress levels.
-		- Sunny and partly cloudy conditions had minimal impact on travel duration or stress.
-  	- Stress Levels:
-   		- Longer travel durations and rainy conditions consistently increased stress levels.
-     		- Stress level differences were highest during the evening commute on rainy days.
+- Departure Time:
+ 	- Morning and evening commutes significantly increased travel duration.
+   	- Trips during off-hours were quicker and less stressful.
+  - Weather Conditions:
+  	- Rainy conditions were associated with longer travel times and higher stress levels.
+	- Sunny and partly cloudy conditions had minimal impact on travel duration or stress.
+  - Stress Levels:
+   	- Longer travel durations and rainy conditions consistently increased stress levels.
+     	- Stress level differences were highest during the evening commute on rainy days.
 
 ## **Limitations**
-	- Weather Data:
- 		- Intended to get from OpenWeatherMap API, however it required a subscription, so weather data was manually recorded.
+- Weather Data:
+ 	- Intended to get from OpenWeatherMap API, however it required a subscription, so weather data was manually recorded.
    
-   	- Sample Size: 
-    		- Since we had a limited amount of time to get data, the dataset was limited to one month of data, reducing the ability to generalize findings.
+   - Sample Size: 
+    	- Since we had a limited amount of time to get data, the dataset was limited to one month of data, reducing the ability to generalize findings.
 
 ## **Future Work**
-	- Adding automated weather data collection using APIs.
+- Adding automated weather data collection using APIs.
  
- 	- Collect data over multiple months for improved generalizability.
+- Collect data over multiple months for improved generalizability.
   
-  	- Explore additional features such as traffic density and exact route details.
+- Explore additional features such as traffic density and exact route details.
 
 
 ## **Conclusion**
