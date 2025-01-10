@@ -6,15 +6,15 @@ In this project, I will analyze how departure time and weather conditions impact
 ## **Description of Dataset**
 -**Total duration of each trip**: I will record the travel time between home and campus using the data provided by Google Maps under “My Timeline”.
 
--**Stress levels**: I will track my stress levels by checking my mood before and after each trip using the Health Monitor app on my Samsung device. This will help to assess how stress levels correlate with the travel experience between my home and campus.
+- **Stress levels**: I will track my stress levels by checking my mood before and after each trip using the Health Monitor app on my Samsung device. This will help to assess how stress levels correlate with the travel experience between my home and campus.
 
--**Route**: Recording the departure point(campus/home) and the arrival point(home/campus). 
+- **Route**: Recording the departure point(campus/home) and the arrival point(home/campus). 
 
--**Weather**: Weather information of that day will be gathered for each journey by OpenWeatherMap API.
+- **Weather**: Weather information of that day will be gathered for each journey by OpenWeatherMap API.
 
--**Departure time**: The exact time of my departure to analyze its effect on the duration of the trip.
+- **Departure time**: The exact time of my departure to analyze its effect on the duration of the trip.
 
--**Day of the week including the date**: Information to distinguish whether the journey happened on a weekday or weekend.
+- **Day of the week including the date**: Information to distinguish whether the journey happened on a weekday or weekend.
 
 ## **Plan** 
 #### **Data Collection** 
@@ -62,19 +62,19 @@ Throughout December 2024, data was collected using methods below:
   	- Weather Data: At the beginning, intended to be collected via OpenWeatherMap API, instead it was manually recorded since subscription was needed to use OpenWeatherMap.
    
 #### **Dataset** 
--**Date and day of the week**: Dates are recorded to assess everyday separately.
+- **Date and day of the week**: Dates are recorded to assess everyday separately.
 
--**Route**: Recording the departure point(campus/home) and the arrival point(home/campus). 
+- **Route**: Recording the departure point(campus/home) and the arrival point(home/campus). 
 
--**Weather Condition**: Weather information of that day were gathered via manual logging technique.
+- **Weather Condition**: Weather information of that day were gathered via manual logging technique.
 
--**Departure time**: The exact time of my departures were recored using the data provided by Google Maps under “My Timeline” to analyze its effect on the duration of the trip.
+- **Departure time**: The exact time of my departures were recored using the data provided by Google Maps under “My Timeline” to analyze its effect on the duration of the trip.
 
--**Total duration of each trip**: Travel time between home and campus will be recorded using the data provided by Google Maps under “My Timeline”.
+- **Total duration of each trip**: Travel time between home and campus will be recorded using the data provided by Google Maps under “My Timeline”.
 
--**Stress levels before and after the trip**: My stress levels were tracked by checking my mood before and after each trip using the Health Monitor app on my smart watch. This helped me assess how stress levels correlate with the travel experience between my home and campus.
+- **Stress levels before and after the trip**: My stress levels were tracked by checking my mood before and after each trip using the Health Monitor app on my smart watch. This helped me assess how stress levels correlate with the travel experience between my home and campus.
 
--**Highest temperature and lowest temperature**: Highest temperature and lowest temperature on that day were recorded using weather forecast.
+- **Highest temperature and lowest temperature**: Highest temperature and lowest temperature on that day were recorded using weather forecast.
 
 
 #### **Data Processing** 
