@@ -86,15 +86,15 @@ Throughout December 2024, data was collected using methods below:
    	- Applied one-hot encoding method to WeatherCondition and TimeCategory. WeatherCondition is separated into 4 groups: Cloudy, Rainy, Sunny, Partly Cloudy. TimeCategory is also seperated into 4 groups: Morning Commute, Work Hours, Evening Commute, Off Hours. 
 
 #### **Visualization Techniques** 
-- **Univariate Analysis:**: 
+- **Univariate Analysis:** 
 	- Histogram for TravelDuration distribution.
  	- Boxplots for StressLevelBefore and StressLevelAfter.
   	- Count plot for WeatherCondition frequencies.
 
-- **Bivariate Analysis:**: 
+- **Bivariate Analysis:** 
  	-Scatter plots to analyze the relationship between departure time and travel duration.
 
-- **Multivariate Analysis:**:
+- **Multivariate Analysis:**
 	- Bar plots to study the interaction of day of the week, weather conditions, and stress levels.
  	- Correlation heatmap to explore relationships between variables.
 
