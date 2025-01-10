@@ -150,12 +150,15 @@ Throughout December 2024, data was collected using methods below:
 ## **Limitations**
 	- Weather Data:
  		- Intended to get from OpenWeatherMap API, however it required a subscription, so weather data was manually recorded.
+   
    	- Sample Size: 
     		- Since we had a limited amount of time to get data, the dataset was limited to one month of data, reducing the ability to generalize findings.
 
 ## **Future Work**
 	- Adding automated weather data collection using APIs.
+ 
  	- Collect data over multiple months for improved generalizability.
+  
   	- Explore additional features such as traffic density and exact route details.
 
 
