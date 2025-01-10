@@ -137,8 +137,6 @@ Throughout December 2024, data was collected using methods below:
 	- **Linear Regression** model is the best model to use as R^2 is 0.62 which is satisfactory for a project data that as we have limited data.
 
 ## *Conclusion**
-
-## *Conclusion**
 This study shows the significant impact of weather conditions and and departure time on travel duration and stress levels as travel durations affect stress levels.
 	- Peak hours which are set to be the commute times and rainy weather conditions.
 
