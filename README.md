@@ -140,10 +140,10 @@ Throughout December 2024, data was collected using methods below:
 - Departure Time:
  	- Morning and evening commutes significantly increased travel duration.
    	- Trips during off-hours were quicker and less stressful.
-  - Weather Conditions:
+- Weather Conditions:
   	- Rainy conditions were associated with longer travel times and higher stress levels.
 	- Sunny and partly cloudy conditions had minimal impact on travel duration or stress.
-  - Stress Levels:
+- Stress Levels:
    	- Longer travel durations and rainy conditions consistently increased stress levels.
      	- Stress level differences were highest during the evening commute on rainy days.
 
