@@ -4,7 +4,7 @@ In this project, I will analyze how departure time and weather conditions impact
 
 
 ## **Description of Dataset**
--**Total duration of each trip**: I will record the travel time between home and campus using the data provided by Google Maps under “My Timeline”.
+- **Total duration of each trip**: I will record the travel time between home and campus using the data provided by Google Maps under “My Timeline”.
 
 - **Stress levels**: I will track my stress levels by checking my mood before and after each trip using the Health Monitor app on my Samsung device. This will help to assess how stress levels correlate with the travel experience between my home and campus.
 
@@ -55,11 +55,10 @@ The main objective of this project is to analyze the relationship between depart
 
  ## **Methods**
  #### **Data Collection** 
-
 Throughout December 2024, data was collected using methods below:
-	- Travel Duration: Recorded from Google Maps under "My Timeline"
- 	- Stress Levels: Self-reported using Samsung Health Monitor app before and after each trip.
-  	- Weather Data: At the beginning, intended to be collected via OpenWeatherMap API, instead it was manually recorded since subscription was needed to use OpenWeatherMap.
+- Travel Duration: Recorded from Google Maps under "My Timeline"
+- Stress Levels: Self-reported using Samsung Health Monitor app before and after each trip.
+- Weather Data: At the beginning, intended to be collected via OpenWeatherMap API, instead it was manually recorded since subscription was needed to use OpenWeatherMap.
    
 #### **Dataset** 
 - **Date and day of the week**: Dates are recorded to assess everyday separately.
