@@ -76,7 +76,7 @@ Throughout December 2024, data was collected using methods below:
 
 
 #### **Data Processing** 
-- **Data Cleaning:**: 
+- **Data Cleaning:** 
 	- Converted date and time into appropriate formats.
  
  - **Feature Engineering**: 
@@ -87,11 +87,11 @@ Throughout December 2024, data was collected using methods below:
 #### **Visualization Techniques** 
 - **Univariate Analysis:** 
 	- Histogram for TravelDuration distribution.
- 	- Boxplots for StressLevelBefore and StressLevelAfter.
   	- Count plot for WeatherCondition frequencies.
 
-- **Bivariate Analysis:** 
- 	-Scatter plots to analyze the relationship between departure time and travel duration.
+- **Bivariate Analysis:**
+	- Boxplots for StressLevelBefore and StressLevelAfter.
+	- Scatter plots to analyze the relationship between departure time and travel duration.
 
 - **Multivariate Analysis:**
 	- Bar plots to study the interaction of day of the week, weather conditions, and stress levels.
