@@ -122,6 +122,20 @@ Throughout December 2024, data was collected using methods below:
   	  	- Strong Correlations:
   	  		- TravelDuration and StressLevelDifference : 0.79
   	  		- TravelDuration and StressLevelAfter : 0.6
+  	- **Bar Plots:**
+  	  	- Stress level rises were highhest on rainy days during morning and evening commutes.
+  	  	- Weekend trips were less stressful.
+  	 
+- **Machine Learning Results**
+  	 
+  |**Model**                |**Mean Squared Error(MSE)**   	|**R^2**      |
+  |-------------------------|-----------------------------------|-------------|
+  |Linear Regression        | 0.26 				| 0.62        |
+  |Decision Tree	    | 0.38 				| 0.43        |
+  |Linear Regression        | 0.30 				| 0.56        |
+
+	- **Linear Regression** model is the best model to use as R^2 is 0.62 which is satisfactory for a project data that as we have limited data.
+  
   	  	 
   	  
 
