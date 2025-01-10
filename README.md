@@ -151,7 +151,7 @@ Throughout December 2024, data was collected using methods below:
 - Weather Data:
  	- Intended to get from OpenWeatherMap API, however it required a subscription, so weather data was manually recorded.
    
-   - Sample Size: 
+- Sample Size: 
     	- Since we had a limited amount of time to get data, the dataset was limited to one month of data, reducing the ability to generalize findings.
 
 ## **Future Work**
