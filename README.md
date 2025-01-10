@@ -120,8 +120,9 @@ Throughout December 2024, data was collected using methods below:
 - **Multivariate Analysis**
   	- **Correlation Heatmap:**
   	  	- Strong Correlations:
-  	  		- TravelDuration and StressLevelDifference
-  	  		- TravelDuration and StressLevelAfter
+  	  		- TravelDuration and StressLevelDifference : 0.79
+  	  		- TravelDuration and StressLevelAfter : 0.6
+  	  	 
   	  
 
   
