@@ -164,7 +164,7 @@ Throughout December 2024, data was collected using methods below:
 
 
 ## **Conclusion**
-We reject the null hypothesis. There is a significant relationship between travel duration and stress level differences. This study shows how departure time and other variables significantly impact travel duration, which affects stress levels.
+We reject the null hypothesis as we get p value less than 0.05. There is a significant relationship between travel duration and stress level differences. This study shows how departure time and other variables significantly impact travel duration, which affects stress levels.
 - Peak-hour traffic and rainy weather conditions result in longer travel durations, which lead to higher stress levels.
 - Time management strategies, such as adjusting departure times based on peak hours and weather forecasts, can help reduce stress.
 - There may be other factors influencing stress levels, as our observations show that stress tends to be lower on Fridays and weekends.
