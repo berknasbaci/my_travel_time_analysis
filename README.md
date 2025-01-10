@@ -165,7 +165,7 @@ Throughout December 2024, data was collected using methods below:
 
 
 ## **Conclusion**
-This study shows the significant impact of weather conditions and and departure time on travel duration and stress levels as travel durations affect stress levels.
+This study shows the significant impact of weather conditions and departure time on travel duration and stress levels as travel durations affect stress levels.
 	- Peak hours which are set to be the commute times and rainy weather conditions.
 
 The project highlights the significance of analyzing personal travel data to make data-informed decisions for better time management and stress management. As we expand the dataset and improve how we gather information, future research can provide more about what shapes our day-to-day travel experiences.
