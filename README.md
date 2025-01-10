@@ -133,7 +133,7 @@ Throughout December 2024, data was collected using methods below:
   |Decision Tree	    | 0.38 				| 0.43        |
   |Random Forest            | 0.30 				| 0.56        |
 
-	- **Linear Regression** model is the best model to use as R^2 is 0.62 which is satisfactory for a project data that as we have limited data of one hour..
+	- **Linear Regression** model is the best model to use as R^2 is 0.62 which is satisfactory for a project data that as we have limited data of one hour.
    
 ## **Findings**
 - Departure Time:
