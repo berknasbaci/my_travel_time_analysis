@@ -55,9 +55,13 @@ The main objective of this project is to analyze the relationship between depart
 
  ## **Methods**
  #### **Data Collection** 
+
 Throughout December 2024, data was collected using methods below:
+
 	- Travel Duration: Recorded from Google Maps under "My Timeline"
+ 
  	- Stress Levels: Self-reported using Samsung Health Monitor app before and after each trip.
+  
   	- Weather Data: At the beginning, intended to be collected via OpenWeatherMap API, instead it was manually recorded since subscription was needed to use OpenWeatherMap.
    
 #### **Dataset** 
