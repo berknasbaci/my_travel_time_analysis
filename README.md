@@ -103,6 +103,27 @@ Throughout December 2024, data was collected using methods below:
   	- Linear Regression
    	- Ramdom Tree
     	- Decision Tree
+
+## **Results of the analysis**
+- **Univariate Analysis**
+  	- **Travel Duration:**
+  	  	- A histogram showed a right-skewed distribution, indicating a few trips with unusually long durations.
+  	- **Stress Levels:**
+  	  	- Boxplots showed higher stress levels after trips compared to before trips.
+  	- **Weather Condition:**
+  	  	- Count plots revealed that "Rainy" and "Cloudy" conditions were the most frequent weather types, however still this graph shpws us that variation in weather condition is enough to analyze the affect of weather condition.
+
+- **Bivariate Analysis**
+  	- **Departure Time and Travel Duration:**
+  	  	- Scatter plots showed a clear increase in travel durations during peak hours which is said to be morning and evening commutes.
+  	 
+- **Multivariate Analysis**
+  	- **Correlation Heatmap:**
+  	  	- Strong Correlations:
+  	  		- TravelDuration and StressLevelDifference
+  	  		- TravelDuration and StressLevelAfter
+  	  
+
   
 
  
