@@ -168,6 +168,7 @@ Throughout December 2024, data was collected using methods below:
 This study shows how weather conditions and departure time significantly impact travel duration, which in turn affects stress levels.
 - Peak-hour traffic and rainy weather conditions result in longer travel durations, which lead to higher stress levels.
 - Time management strategies, such as adjusting departure times based on peak hours and weather forecasts, can help reduce stress.
+- There may be other factors influencing stress levels, as our observations show that stress tends to be lower on Fridays and weekends.
 
 This project emphasizes the importance of analyzing personal travel data to make data-informed decisions for better time and stress management. As we expand the dataset and refine our data collection methods, future research can provide deeper insights into the factors shaping our daily travel experiences, helping us better manage both travel duration and stress levels.
 
