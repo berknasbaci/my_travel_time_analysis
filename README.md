@@ -105,8 +105,9 @@ Throughout December 2024, data was collected using methods below:
   #### **Machine Learning Models**
   - **Regression Models**: 
   	- Linear Regression
-   	- Ramdom Tree
-      	- Decision Tree
+   	- Random Tree
+    - Decision Tree
+      
 
 ## **Results of the analysis**
 - **Univariate Analysis**
