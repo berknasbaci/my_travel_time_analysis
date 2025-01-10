@@ -78,31 +78,31 @@ Throughout December 2024, data was collected using methods below:
 
 #### **Data Processing** 
 -**Data Cleaning:**: 
-	-Converted date and time into appropriate formats.
+	- Converted date and time into appropriate formats.
  
  -**Feature Engineering**: 
- 	-New variable is created named "StressLevelDifference" to compute the difference between stress levels before and after the trip.
-  	-DepartureTimeHour is extracted for time analysis.
-   	-Applied one-hot encoding method to WeatherCondition and TimeCategory. WeatherCondition is separated into 4 groups: Cloudy, Rainy, Sunny, Partly Cloudy. TimeCategory is also seperated into 4 groups: Morning Commute, Work Hours, Evening Commute, Off Hours. 
+ 	- New variable is created named "StressLevelDifference" to compute the difference between stress levels before and after the trip.
+  	- DepartureTimeHour is extracted for time analysis.
+   	- Applied one-hot encoding method to WeatherCondition and TimeCategory. WeatherCondition is separated into 4 groups: Cloudy, Rainy, Sunny, Partly Cloudy. TimeCategory is also seperated into 4 groups: Morning Commute, Work Hours, Evening Commute, Off Hours. 
 
 #### **Visualization Techniques** 
 -**Univariate Analysis:**: 
-	-Histogram for TravelDuration distribution.
- 	-Boxplots for StressLevelBefore and StressLevelAfter.
-  	-Count plot for WeatherCondition frequencies.
+	- Histogram for TravelDuration distribution.
+ 	- Boxplots for StressLevelBefore and StressLevelAfter.
+  	- Count plot for WeatherCondition frequencies.
 
 -**Bivariate Analysis:**: 
  	-Scatter plots to analyze the relationship between departure time and travel duration.
 
 -**Multivariate Analysis:**:
-	-Bar plots to study the interaction of day of the week, weather conditions, and stress levels.
- 	-Correlation heatmap to explore relationships between variables.
+	- Bar plots to study the interaction of day of the week, weather conditions, and stress levels.
+ 	- Correlation heatmap to explore relationships between variables.
 
   #### **Machine Learning Models**
   -**Regression Models**: 
-  	-Linear Regression
-   	-Ramdom Tree
-    	-Decision Tree
+  	- Linear Regression
+   	- Ramdom Tree
+    	- Decision Tree
   
 
  
