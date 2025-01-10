@@ -169,8 +169,7 @@ This study shows how weather conditions and departure time significantly impact 
 - Peak-hour traffic and rainy weather conditions result in longer travel durations, which lead to higher stress levels.
 - Time management strategies, such as adjusting departure times based on peak hours and weather forecasts, can help reduce stress.
 
-The project highlights the significance of analyzing personal travel data to make data-informed decisions for better time management and stress management. As we expand the dataset and improve how we gather information, future research can provide more about what shapes our day-to-day travel experiences.
-
+This project emphasizes the importance of analyzing personal travel data to make data-informed decisions for better time and stress management. As we expand the dataset and refine our data collection methods, future research can provide deeper insights into the factors shaping our daily travel experiences, helping us better manage both travel duration and stress levels.
 
   
   	  	 
